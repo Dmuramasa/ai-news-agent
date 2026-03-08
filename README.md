@@ -40,7 +40,7 @@ The project follows a modular service-oriented architecture. Here is how the dat
 Bash
 
 # Clone the repository
-git clone https://github.com/yourusername/telegram-ai-agent.git
+git clone https://github.com/Dmuramasa/telegram-ai-agent.git
 
 # Install dependencies
 npm install
